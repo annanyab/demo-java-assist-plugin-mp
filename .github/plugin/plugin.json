@@ -6,13 +6,13 @@
   "agents": [
     {
       "id": "demo-java-test-creator",
-      "path": "./agents/java-test-creator.json"
+      "path": "./agents/demo-java-test-creator.agent.md"
     }
   ],
   "skills": [
     {
       "id": "demo-java-describer",
-      "path": "./skills/java-describer.md"
+      "path": "./skills/demo-java-describer/SKILL.md"
     }
   ]
 }
