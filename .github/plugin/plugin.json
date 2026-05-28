@@ -1,0 +1,18 @@
+{
+  "name": "demo-java-companion",
+  "version": "1.0.0",
+  "description": "Enterprise Java distribution plugin for automated unit test generation and semantic code reviews.",
+  "tags": ["java", "testing", "architecture"],
+  "agents": [
+    {
+      "id": "demo-java-test-creator",
+      "path": "./agents/java-test-creator.json"
+    }
+  ],
+  "skills": [
+    {
+      "id": "demo-java-describer",
+      "path": "./skills/java-describer.md"
+    }
+  ]
+}
