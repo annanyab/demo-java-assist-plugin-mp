@@ -1,0 +1,19 @@
+{
+  "name": "demo-java-marketplace",
+  "metadata": {
+    "description": "Internal Enterprise Java Assistant Marketplace",
+    "version": "1.0.0"
+  },
+  "owner": {
+    "name": "Architecture Team",
+    "email": "architecture-team@yourcompany.com"
+  },
+  "plugins": [
+    {
+      "name": "demo-java-companion",
+      "source": ".",
+      "description": "Enterprise Java distribution plugin for automated unit test generation and semantic code reviews.",
+      "version": "1.0.0"
+    }
+  ]
+}
